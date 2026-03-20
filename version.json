@@ -1,15 +1,15 @@
 {
   "announcement": "",
   "lite": {
-    "latest_version": "1.5.2",
+    "latest_version": "1.5.3",
     "minimum_recommended": "",
     "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/lite",
-    "message": "test update logic"
+    "message": "test test"
   },
   "full": {
-    "latest_version": "1.5.2",
+    "latest_version": "1.5.3",
     "minimum_recommended": "",
     "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/full",
-    "message": "test update logic"
+    "message": "test test"
   }
 }
