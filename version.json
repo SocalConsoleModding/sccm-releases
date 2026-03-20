@@ -4,12 +4,12 @@
     "latest_version": "1.5.4",
     "minimum_recommended": "1.5.4",
     "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/lite",
-    "message": "urgent test"
+    "message": "test urgent"
   },
   "full": {
     "latest_version": "1.5.4",
     "minimum_recommended": "1.5.4",
     "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/full",
-    "message": "urgent test"
+    "message": "test urgent"
   }
 }
