@@ -1,15 +1,15 @@
 {
   "announcement": "",
   "lite": {
-    "latest_version": "1.5.5",
+    "latest_version": "2.0.0",
     "minimum_recommended": "1.5.4",
-    "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/lite",
-    "message": "test beta push"
+    "download_url": "https://sccm.circle.so/c/free-guides-resources/switch-toolbox-lite-beta-release",
+    "message": "Beta Release!"
   },
   "full": {
-    "latest_version": "1.5.5",
+    "latest_version": "2.0.0",
     "minimum_recommended": "1.5.4",
-    "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/full",
-    "message": "test beta push"
+    "download_url": "https://sccm.circle.so/c/supporter-guides-resources/switch-toolbox-beta-release",
+    "message": "Beta Release!"
   }
 }
