@@ -1,0 +1,15 @@
+{
+  "announcement": "",
+  "lite": {
+    "latest_version": "1.5.1",
+    "minimum_recommended": "",
+    "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/lite",
+    "message": "test release"
+  },
+  "full": {
+    "latest_version": "1.5.1",
+    "minimum_recommended": "",
+    "download_url": "https://socalconsolemodding.circle.so/c/sccm-switch-toolbox/full",
+    "message": "test release"
+  }
+}
