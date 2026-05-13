@@ -1,15 +1,15 @@
 {
   "announcement": "",
   "lite": {
-    "latest_version": "2.3.0",
+    "latest_version": "2.4.0",
     "minimum_recommended": "2.1.0",
     "download_url": "https://sccm.circle.so/c/free-guides-resources/switch-toolbox-lite-beta-release",
-    "message": ""
+    "message": "Added ability to add or remove partitions while preserving data."
   },
   "full": {
-    "latest_version": "2.3.0",
+    "latest_version": "2.4.0",
     "minimum_recommended": "2.1.0",
     "download_url": "https://sccm.circle.so/c/supporter-guides-resources/switch-toolbox-beta-release",
-    "message": ""
+    "message": "Added ability to add or remove partitions while preserving data."
   }
 }
