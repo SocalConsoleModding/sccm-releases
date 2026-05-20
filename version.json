@@ -1,15 +1,15 @@
 {
   "announcement": "",
   "lite": {
-    "latest_version": "2.4.1",
+    "latest_version": "2.4.2",
     "minimum_recommended": "2.1.0",
     "download_url": "https://sccm.circle.so/c/free-guides-resources/switch-toolbox-lite-beta-release",
-    "message": "fixed duplicate Emummc \"Nintendo\" folders when creating an EmuMMC and HOS backup. Now File based EmuMMCs only get backed up with HOS data and Partition based EmuMMC data only gets backed up with an EmuMMC partition backup. Added ability to minimize app while running a process. Fixed ability to select non-removable drive through the dashboard for backup/restore/format."
+    "message": "hotfix for formatting cards smaller than 512gb"
   },
   "full": {
-    "latest_version": "2.4.1",
+    "latest_version": "2.4.2",
     "minimum_recommended": "2.1.0",
     "download_url": "https://sccm.circle.so/c/supporter-guides-resources/switch-toolbox-beta-release",
-    "message": "fixed duplicate Emummc \"Nintendo\" folders when creating an EmuMMC and HOS backup. Now File based EmuMMCs only get backed up with HOS data and Partition based EmuMMC data only gets backed up with an EmuMMC partition backup. Added ability to minimize app while running a process. Fixed ability to select non-removable drive through the dashboard for backup/restore/format."
+    "message": "hotfix for formatting cards smaller than 512gb"
   }
 }
