@@ -2,14 +2,14 @@
   "announcement": "",
   "lite": {
     "latest_version": "3.5.0",
-    "minimum_recommended": "3.0.0",
+    "minimum_recommended": "3.5.0",
     "download_url": "https://sccm.circle.so/c/free-guides-resources/switch-toolbox-lite-beta-release",
-    "message": "Added Support for dual emummc partitions (experimental)"
+    "message": "Added Support for back up and restoring dual emummc partitions, along with fixes for emummcs backed up with previous versions"
   },
   "full": {
     "latest_version": "3.5.0",
-    "minimum_recommended": "3.0.0",
+    "minimum_recommended": "3.5.0",
     "download_url": "https://sccm.circle.so/c/supporter-guides-resources/switch-toolbox-beta-release",
-    "message": "Added Support for dual emummc partitions (experimental)"
+    "message": "Added Support for back up and restoring dual emummc partitions, along with fixes for emummcs backed up with previous versions"
   }
 }
