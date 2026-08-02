@@ -1,15 +1,15 @@
 {
   "announcement": "",
   "lite": {
-    "latest_version": "3.8.0",
+    "latest_version": "3.9.0",
     "minimum_recommended": "3.5.0",
     "download_url": "https://guides.socalconsolemodding.com/sccm-switch-toolbox/",
-    "message": "Fixed Linux file browsing"
+    "message": "fixed backups stalling on large files on computers with smaller ram modules."
   },
   "full": {
-    "latest_version": "3.8.0",
+    "latest_version": "3.9.0",
     "minimum_recommended": "3.5.0",
     "download_url": "https://guides.socalconsolemodding.com/sccm-switch-toolbox/",
-    "message": "Fixed Linux file browsing"
+    "message": "fixed backups stalling on large files on computers with smaller ram modules."
   }
 }
